@@ -65,7 +65,7 @@ This project uses a **Random Forest Regressor** to predict house prices based on
 - Visualized results using scatter plots to compare actual and predicted prices.
 
 Example plot:  
-![Actual vs Predicted Prices](path/to/your/plot.png)
+![Actual vs Predicted Prices](https://github.com/user-attachments/assets/013bef56-3481-4666-8aed-21c3e76f79e4)
 
 ---
 
